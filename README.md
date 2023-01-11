@@ -1,5 +1,5 @@
-# Project-3-A-B-Testing
 ## Third project of the Data Science Bootcamp @WBS Coding School
+### Learning and speaking about statistics and A/B testing
 
 ---
 
